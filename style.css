@@ -7,6 +7,14 @@ h1 {
     font-size: 50px;
 }
 
+h2 {
+    font-size: 40px;
+}
+
+p{
+    color: dimgrey;
+}
+
 .text-colour{
     color: rgb(255, 81, 0);
     font-size: 60px;
@@ -30,6 +38,7 @@ h1 {
 
 section{
     height: 500px;
+    padding-bottom: 150px;
     
 }
 
@@ -40,4 +49,10 @@ section{
     border-radius: 5px;
     color: aliceblue;
     font-weight: bold;
+}
+
+.dream-area{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
 }
